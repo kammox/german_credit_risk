@@ -25,7 +25,7 @@ Les emplois qualifiés et le logement gratuit sont corrélés à des crédits pl
 Prétraitement avec encodage ordinal et ciblé, normalisation par StandardScaler. Random Forest a été choisi pour son potentiel d'amélioration, malgré un léger sur-apprentissage, régularisé via réglage des hyperparamètres par recherche bayésienne. Le seuil de classification a été ajusté pour maximiser le rappel (80%) tout en maintenant une précision acceptable.
 
 # 6. Streamlit
-Une interface qui permet d’obtenir des prédictions en temps réel. Le projet sera déployé prochainement sur un cloud (ex : AWS Elastic Beanstalk).
+Une interface qui permet d’obtenir des prédictions en temps réel. En localhost , le projet sera déployé prochainement sur un cloud (ex : AWS Elastic Beanstalk).
 
 # 7. Dataset
 Données issues de la base UCI via Kaggle :
