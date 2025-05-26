@@ -26,3 +26,7 @@ Prétraitement avec encodage ordinal et ciblé, normalisation par StandardScaler
 
 # 6. Streamlit
 Une interface qui permet d’obtenir des prédictions en temps réel. Le projet sera déployé prochainement sur un cloud (ex : AWS Elastic Beanstalk).
+
+# 7. Dataset
+Données issues de la base UCI via Kaggle :
+https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk
